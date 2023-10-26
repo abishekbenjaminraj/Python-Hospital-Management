@@ -1,0 +1,22 @@
+/* Add your custom CSS styles here */
+/* For example, you can style the page header */
+h1 {
+    color: #007bff; /* Bootstrap primary color */
+}
+
+/* Style the form inputs */
+.form-control {
+    margin-bottom: 10px;
+}
+
+/* Style the submit button */
+.btn-primary {
+    background-color: #007bff;
+    border-color: #007bff;
+}
+
+/* Style the table */
+.table {
+    margin-top: 20px;
+    text-align: center;
+}
